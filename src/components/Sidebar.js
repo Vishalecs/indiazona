@@ -42,7 +42,7 @@ const Sidebar = ({ setSelectedOption }) => {
     <div className="sidebar">
       <div className="sidebar-logo">
         {/* Replace text with an image */}
-        <img src="../image/log.png" alt="Indiazona Logo" className="sidebar-logo-image" />
+        <img src="..public/image/log.png" alt="Indiazona Logo" className="sidebar-logo-image" />
       </div>
       <ul className="menu-list">
         {menuItems.map((item, index) => (
