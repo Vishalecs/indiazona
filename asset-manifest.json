@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indiazona/static/css/main.4427667f.css",
+    "main.js": "/indiazona/static/js/main.39f5a4a4.js",
+    "static/js/453.59b8a61b.chunk.js": "/indiazona/static/js/453.59b8a61b.chunk.js",
+    "index.html": "/indiazona/index.html",
+    "main.4427667f.css.map": "/indiazona/static/css/main.4427667f.css.map",
+    "main.39f5a4a4.js.map": "/indiazona/static/js/main.39f5a4a4.js.map",
+    "453.59b8a61b.chunk.js.map": "/indiazona/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4427667f.css",
+    "static/js/main.39f5a4a4.js"
+  ]
+}
